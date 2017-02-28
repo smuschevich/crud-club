@@ -1,0 +1,58 @@
+.club-element {
+    height: 200px;
+    background-color: #c6edf1;
+}
+
+.club-element:hover {
+    background-color: #a0c9eb;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.item-name {
+    font-size: x-large;
+    text-align: center;
+    color: #0008ff;
+}
+
+.logo {
+    max-height: 130px;
+}
+
+.max-w-100 {
+    max-width: 100%;
+}
+
+.m-t-10 {
+    margin-top: 10px;
+}
+
+.m-r-10 {
+    margin-right: 10px;
+}
+
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.m-l-10 {
+    margin-left: 10px;
+}
+
+.m-t-20 {
+    margin-top: 20px;
+}
+
+.m-r-20 {
+    margin-right: 20px;
+}
+
+.m-b-20 {
+    margin-bottom: 20px;
+}
+
+.m-l-20 {
+    margin-left: 20px;
+}
